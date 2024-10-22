@@ -1,4 +1,4 @@
-# PI Counter Performance Dashboard
+# PI Counter Performance Dashboard (2022-23)
 
 ![PI_Counter_Performance_Dashboard_Screenshot](https://github.com/user-attachments/assets/4d7fd8fb-21fd-4cbc-82bb-ebeef9a285c1)
 
