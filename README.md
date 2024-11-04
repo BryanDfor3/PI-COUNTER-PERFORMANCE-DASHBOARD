@@ -7,7 +7,7 @@
 ## Business Problem
 To meet its compliance standards, an automotive manufacturer needed to perform quarterly physical inventory (PI) counts until its goal threshold was met (90% accuracy). These physical inventory counts required the manufacturing plant to have to temporarily shut down, and in the previous quarter, the manufacturer not only severely missed its target accuracy, but also had to use 9 days to complete the inventory count. This resulted in significant downtime for the factory that led to the underproduction of vehicles assembled.
 
-After a successful implementation of the [PI Count Dashboard]([url](https://github.com/BryanDfor3/PI-COUNT-TRACKING-DASHBOARD)), the client wanted a way to view the performance of individual counters to be able to reward the best counters who were contributing the most positively towards the accuracy target (90%), and have insight into which counters may need to replacing due to their contributions hurting the overall counting accuracy.  
+After a successful implementation of the [PI Count Dashboard]([url](https://github.com/BryanDfor3/PI-COUNT-TRACKING-DASHBOARD)), the client wanted a way to view the performance of individual counters to be able to reward the best counters who were contributing the most positively towards the accuracy target (90%), and have insight into which counters may need replacing due to their contributions hurting the overall counting accuracy.  
 
 ## Methodology
 1. Leverage the data being ETL'd for the PI Count Dashboard, with a separate flow of data transformation steps incorporated into Alteryx to produce a new Tableau data source for counter performance visuals
